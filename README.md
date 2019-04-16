@@ -1,6 +1,8 @@
-# FreedomFighters
+# Template
 
-### Multi-levels form connected to Sharpspring
+### Projec template based on GULP
+
+### Use it for short and simple projects
 
 ### First of all, install packages
 
